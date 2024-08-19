@@ -1,5 +1,5 @@
 {
-    "name": "traineratwot/filament-openstreetmap",
+    "name": "musabgaili/filament-openstreetmap-mod",
     "version": "1.2.2",
     "description": "This is my package filament-openstreetmap",
     "keywords": [
@@ -7,10 +7,10 @@
         "laravel",
         "filament-openstreetmap"
     ],
-    "homepage": "https://github.com/traineratwot/filament-openstreetmap",
+    "homepage": "https://github.com/musabgaili/filament-openstreetmap-mod",
     "support": {
-        "issues": "https://github.com/traineratwot/filament-openstreetmap/issues",
-        "source": "https://github.com/traineratwot/filament-openstreetmap"
+        "issues": "https://github.com/musabgaili/filament-openstreetmap-mod/issues",
+        "source": "https://github.com/musabgaili/filament-openstreetmap-mod"
     },
     "license": "MIT",
     "authors": [
